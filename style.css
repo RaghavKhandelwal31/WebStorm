@@ -1,0 +1,24 @@
+
+.background {
+    max-width:100%;
+    height:auto;
+    max-height:100%;
+}
+
+body {
+    background-image: url("nick-morales-BwYcH78rcpI-unsplash.jpg");
+}
+
+.wh_h1 {
+    color: white;
+}
+
+.in h1 {
+    display: inline;
+    text-align: center;
+}
+
+
+h1 {
+    text-align: center;
+}
